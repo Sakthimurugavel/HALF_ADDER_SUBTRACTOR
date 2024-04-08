@@ -77,5 +77,5 @@ endmodule
 **Half subtractor**
 ![out 3 de ec 3](https://github.com/Sakthimurugavel/HALF_ADDER_SUBTRACTOR/assets/118707246/90c84354-f5d1-43e7-909a-d074eb33b1a7)
 
-**Result:**
+## Result:
 the output of HALF_ADDER_SUBTRACTOR has been executed successfully
